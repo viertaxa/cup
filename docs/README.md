@@ -8,3 +8,4 @@ CUP is a tool to turn CloudFlare DNS into a Dynamic DNS service.
 
 - [Configuration](configuration.md)
 - [Updating Records](update.md)
+- [API Key](api-key.md)
