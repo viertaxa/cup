@@ -4,6 +4,10 @@ The **C**loudflare (DNS) **U**pdater **P**rogram
 
 CUP is a tool to turn CloudFlare DNS into a Dynamic DNS service.
 
+# Documentation
+
+Documentation can be found in the [docs folder](docs/README.md).
+
 # Contributing
 
 Contributions are welcome! Please feel free to open a PR or an issue on GitHub.
